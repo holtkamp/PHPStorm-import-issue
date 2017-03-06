@@ -4,22 +4,15 @@ namespace Project\Domain\Dao;
 
 use Project\Domain\Entity\Invoice as InvoiceEntity;
 
-class Invoice
+class Order
 {
 
     /**
      * @return InvoiceEntity[] | array
      */
-    public function loadInvoices()
+    public function loadInvoicesFromAnotherDao()
     {
         return array();
     }
 
-    /**
-     * @return InvoiceEntity
-     */
-    public function loadInvoice()
-    {
-
-    }
 }
