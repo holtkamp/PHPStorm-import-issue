@@ -1,0 +1,176 @@
+2017-03-06 20:33:55,583 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------
+2017-03-06 20:33:55,613 [     30]   INFO -     #com.intellij.util.ui.JBUI - UI scale factor: 1.0 
+2017-03-06 20:33:55,626 [     43]   INFO -        #com.intellij.idea.Main - IDE: PhpStorm (build #PS-171.3691.14, 01 Mar 2017 16:55) 
+2017-03-06 20:33:55,626 [     43]   INFO -        #com.intellij.idea.Main - OS: Mac OS X (10.12.3, x86_64) 
+2017-03-06 20:33:55,626 [     43]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-724-b5 (JetBrains s.r.o) 
+2017-03-06 20:33:55,626 [     43]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b5 (OpenJDK 64-Bit Server VM) 
+2017-03-06 20:33:55,661 [     78]   INFO -        #com.intellij.idea.Main - JVM Args: -Dfile.encoding=UTF-8 -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -XX:MaxJavaStackTraceDepth=-1 -Xverify:none -XX:ErrorFile=/Users/mennoholtkamp/java_error_in_phpstorm_%p.log -XX:HeapDumpPath=/Users/mennoholtkamp/java_error_in_phpstorm.hprof -Xbootclasspath/a:../lib/boot.jar -Xms128m -Xmx2048m -XX:MaxPermSize=350m -XX:ReservedCodeCacheSize=240m -XX:+UseCompressedOops -agentlib:yjpagent=probe_disable=*,disablealloc,disabletracing,onlylocal,disableexceptiontelemetry,delay=10000,sessionname=WebIde110 -Djb.vmOptionsFile=/Users/mennoholtkamp/Library/Preferences/PhpStorm2017.1/phpstorm.vmoptions -Didea.java.redist=jdk-bundled -Didea.home.path=/Applications/PhpStorm 2017.1 EAP.app/Contents -Didea.executable=phpstorm -Didea.platform.prefix=PhpStorm -Didea.paths.selector=PhpStorm2017.1 
+2017-03-06 20:33:55,662 [     79]   INFO -        #com.intellij.idea.Main - ext: /Applications/PhpStorm 2017.1 EAP.app/Contents/jdk/Contents/Home/jre/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2017-03-06 20:33:55,662 [     79]   INFO -        #com.intellij.idea.Main - ext: /System/Library/Java/Extensions: [AppleScriptEngine.jar, dns_sd.jar, j3daudio.jar, j3dcore.jar, j3dutils.jar, jai_codec.jar, jai_core.jar, libAppleScriptEngine.jnilib, libJ3D.jnilib, libJ3DAudio.jnilib, libJ3DUtils.jnilib, libmlib_jai.jnilib, mlibwrapper_jai.jar, MRJToolkit.jar, vecmath.jar] 
+2017-03-06 20:33:55,662 [     79]   INFO -        #com.intellij.idea.Main - ext: /usr/lib/java: [libjdns_sd.jnilib] 
+2017-03-06 20:33:55,662 [     79]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2017-03-06 20:33:55,698 [    115]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 36 ms 
+2017-03-06 20:33:55,753 [    170]   INFO -        #com.intellij.idea.Main - initializing environment 
+2017-03-06 20:33:55,754 [    171]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/zsh -l -i -c '/Applications/PhpStorm 2017.1 EAP.app/Contents/bin/printenv.py' '/private/var/folders/52/jlcr1qz1071bqhs6h92ndkpr0000gn/T/intellij-shell-env.tmp' 
+2017-03-06 20:33:56,301 [    718]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (32 vars) 
+2017-03-06 20:33:58,589 [   3006]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor plugin-intelliLang.xml 
+2017-03-06 20:33:58,901 [   3318]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2017-03-06 20:33:58,928 [   3345]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor plugin-intelliLang.xml 
+2017-03-06 20:33:59,147 [   3564]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2017-03-06 20:33:59,148 [   3565]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2017-03-06 20:33:59,328 [   3745]   INFO - llij.ide.plugins.PluginManager - Plugin 'Markdown Navigator' can't be loaded because: Plugin is disabled 
+2017-03-06 20:33:59,624 [   4041]   INFO - llij.ide.plugins.PluginManager - 66 plugins initialized in 1228 ms 
+2017-03-06 20:33:59,625 [   4042]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (0.1), AngularJS (171.3691.14), Apache config (.htaccess) support (999.999), Behat Support (999.999), Blade Support (999.999), CSS Support (171.3691.14), CVS Integration (11), Codeception Framework (999.999), CoffeeScript (2.0), Command Line Tool Support (999.999), Copyright (8.1), Database Tools and SQL (1.0), Docker integration (2.5.2), Drupal Support (999.999), File Watchers (171.3691.14), GNU GetText files support (*.po) (171.3691.14), Gherkin (999.999), Git Integration (8.1), GitHub (171.3691.14), Google App Engine Support for PHP (999.999), HTML Tools (2.0), Haml (171.3691.14), IDEA CORE (171.3691.14), Ini4Idea (999.999), IntelliLang (8.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Joomla! Support (999.999), Less support (171.3691.14), Markdown support (VERSION), NodeJS (171.3691.14), PHP (999.999), PHP Docker (999.999), PHP Remote Interpreter (999.999), PHPSpec BDD Framework (999.999), Perforce Integration (2.0), Performance Testing (999.999), Phing Support (999.999), QuirksMode (171.3691.14), REST Client (171.3691.14), ReStructuredText Support (171.3691.14), Refactor-X (2.01), Remote Hosts Access (0.1), SSH Remote Run (0.1), Sass support (171.3691.14), Settings Repository (171.3691.14), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), TextMate bundles support (VERSION), Time Tracking (1.0), Twig Support (999.999), UML Support (1.0), Vagrant (171.3691.14), W3C Validators (2.0), WordPress Support (999.999), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (171.3691.14), hg4idea (10.0), tslint (171.3691.14) 
+2017-03-06 20:33:59,626 [   4043]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: .ignore (1.7.6), PHP composer.json support (1.0.18), Php Inspections (EA Extended) (2.3.4) 
+2017-03-06 20:33:59,626 [   4043]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Markdown Navigator (2.2.0) 
+2017-03-06 20:34:00,196 [   4613]   INFO - ij.components.ComponentManager - com.intellij.openapi.components.impl.ServiceManagerImpl initialized in 256 ms 
+2017-03-06 20:34:00,310 [   4727]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1994 
+2017-03-06 20:34:00,375 [   4792]   INFO - ij.components.ComponentManager - com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl initialized in 79 ms 
+2017-03-06 20:34:00,379 [   4796]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /Applications/PhpStorm 2017.1 EAP.app/Contents/bin/fsnotifier 
+2017-03-06 20:34:00,391 [   4808]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-03-06 20:34:00,391 [   4808]   INFO - ij.components.ComponentManager - com.intellij.openapi.vfs.impl.local.LocalFileSystemImpl initialized in 95 ms 
+2017-03-06 20:34:00,448 [   4865]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2017-03-06 20:34:00,448 [   4865]   INFO - pi.util.registry.RegistryState -   dumb.aware.run.configurations = true 
+2017-03-06 20:34:00,455 [   4872]   INFO - ij.components.ComponentManager - com.intellij.openapi.util.registry.RegistryState initialized in 61 ms 
+2017-03-06 20:34:00,456 [   4873]   INFO - ij.components.ComponentManager - com.intellij.database.dataSource.srcStorage.DbSrcFileSystem initialized in 63 ms 
+2017-03-06 20:34:00,460 [   4877]   INFO - ij.components.ComponentManager - com.intellij.openapi.vfs.PlatformVirtualFileManager initialized in 168 ms 
+2017-03-06 20:34:00,668 [   5085]   INFO - ij.components.ComponentManager - com.intellij.ultimate.UltimateVerifier initialized in 12 ms 
+2017-03-06 20:34:01,433 [   5850]   INFO - ij.components.ComponentManager - com.intellij.openapi.fileTypes.impl.FileTypeManagerImpl initialized in 761 ms 
+2017-03-06 20:34:01,524 [   5941]   INFO - ij.components.ComponentManager - com.intellij.openapi.keymap.impl.KeymapManagerImpl initialized in 84 ms 
+2017-03-06 20:34:01,990 [   6407]   INFO - ij.components.ComponentManager - com.intellij.openapi.actionSystem.impl.ActionManagerImpl initialized in 550 ms 
+2017-03-06 20:34:02,022 [   6439]   INFO - ij.components.ComponentManager - com.intellij.openapi.editor.impl.EditorFactoryImpl initialized in 583 ms 
+2017-03-06 20:34:02,041 [   6458]   INFO - ij.components.ComponentManager - com.intellij.history.integration.LocalHistoryImpl initialized in 19 ms 
+2017-03-06 20:34:02,055 [   6472]   INFO - ij.components.ComponentManager - com.intellij.openapi.command.impl.UndoManagerImpl initialized in 13 ms 
+2017-03-06 20:34:02,457 [   6874]   INFO - ij.components.ComponentManager - com.intellij.ide.ui.laf.LafManagerImpl initialized in 395 ms 
+2017-03-06 20:34:02,484 [   6901]   INFO - ij.components.ComponentManager - com.intellij.diagnostic.PerformanceWatcher initialized in 27 ms 
+2017-03-06 20:34:02,510 [   6927]   INFO - ij.components.ComponentManager - com.intellij.internal.statistic.persistence.UsageStatisticsPersistenceComponent initialized in 12 ms 
+2017-03-06 20:34:02,611 [   7028]   INFO - ij.components.ComponentManager - com.intellij.internal.statistic.persistence.ApplicationStatisticsPersistenceComponent initialized in 101 ms 
+2017-03-06 20:34:02,674 [   7091]   INFO - ij.components.ComponentManager - com.intellij.util.net.HttpConfigurable initialized in 46 ms 
+2017-03-06 20:34:02,872 [   7289]   INFO - ij.components.ComponentManager - com.intellij.util.net.ssl.CertificateManager initialized in 198 ms 
+2017-03-06 20:34:02,995 [   7412]   INFO - ij.components.ComponentManager - com.intellij.ide.SystemHealthMonitor initialized in 122 ms 
+2017-03-06 20:34:02,999 [   7416]   INFO - lij.diagnostic.DebugLogManager - Set DEBUG for the following categories:  
+2017-03-06 20:34:03,026 [   7443]   INFO - ij.components.ComponentManager - com.intellij.openapi.wm.impl.WindowManagerImpl initialized in 20 ms 
+2017-03-06 20:34:03,031 [   7448]   INFO - ij.components.ComponentManager - com.intellij.openapi.wm.impl.FocusManagerImpl initialized in 25 ms 
+2017-03-06 20:34:03,041 [   7458]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2017-03-06 20:34:03,044 [   7461]   INFO - ij.components.ComponentManager - com.intellij.ide.IdeTooltipManager initialized in 12 ms 
+2017-03-06 20:34:03,061 [   7478]   INFO - ij.components.ComponentManager - com.intellij.ide.SaveAndSyncHandlerImpl initialized in 16 ms 
+2017-03-06 20:34:03,134 [   7551]   INFO - ij.components.ComponentManager - com.intellij.ide.MacOSApplicationProvider initialized in 71 ms 
+2017-03-06 20:34:03,145 [   7562]   INFO - gs.impl.UpdateCheckerComponent - channel: eap 
+2017-03-06 20:34:03,186 [   7603]   INFO - ij.components.ComponentManager - com.intellij.openapi.updateSettings.impl.UpdateCheckerComponent initialized in 51 ms 
+2017-03-06 20:34:03,203 [   7620]   INFO - ij.components.ComponentManager - com.intellij.openapi.actionSystem.ex.QuickListsManager initialized in 13 ms 
+2017-03-06 20:34:03,262 [   7679]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:34 
+2017-03-06 20:34:03,266 [   7683]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:4 
+2017-03-06 20:34:03,267 [   7684]   INFO - ij.components.ComponentManager - com.intellij.util.indexing.FileBasedIndexImpl initialized in 45 ms 
+2017-03-06 20:34:03,281 [   7698]   INFO - ij.components.ComponentManager - com.intellij.psi.stubs.SerializationManagerImpl initialized in 14 ms 
+2017-03-06 20:34:03,310 [   7727]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:31 
+2017-03-06 20:34:03,311 [   7728]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2017-03-06 20:34:03,311 [   7728]   INFO - ij.components.ComponentManager - com.intellij.psi.stubs.StubIndexImpl initialized in 42 ms 
+2017-03-06 20:34:03,324 [   7741]   INFO - ij.components.ComponentManager - com.intellij.tools.ToolManager initialized in 13 ms 
+2017-03-06 20:34:03,385 [   7802]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2017-03-06 20:34:03,385 [   7802]   INFO - ij.components.ComponentManager - com.intellij.ide.script.IdeStartupScripts initialized in 51 ms 
+2017-03-06 20:34:03,408 [   7825]   INFO - ij.components.ComponentManager - com.intellij.ide.EvaluationSupport initialized in 14 ms 
+2017-03-06 20:34:03,423 [   7840]   INFO - ij.components.ComponentManager - org.intellij.plugins.relaxNG.ApplicationLoader initialized in 15 ms 
+2017-03-06 20:34:03,459 [   7876]   INFO - ij.components.ComponentManager - org.intellij.plugins.xpathView.XPathAppComponent initialized in 20 ms 
+2017-03-06 20:34:03,476 [   7893]   INFO - ij.components.ComponentManager - org.intellij.lang.xpath.xslt.impl.XsltConfigImpl initialized in 17 ms 
+2017-03-06 20:34:03,519 [   7936]   INFO - ij.components.ComponentManager - com.intellij.javascript.JSSupportLoader initialized in 40 ms 
+2017-03-06 20:34:03,565 [   7982]   INFO - ij.components.ComponentManager - org.jetbrains.plugins.textmate.TextMateApplicationComponent initialized in 34 ms 
+2017-03-06 20:34:03,885 [   8302]   INFO - ij.components.ComponentManager - org.psliwa.idea.composerJson.intellij.codeAssist.composer.PackagesLoader initialized in 319 ms 
+2017-03-06 20:34:04,141 [   8558]   INFO - ij.components.ComponentManager - org.psliwa.idea.composerJson.intellij.codeAssist.composer.versionRenderer.VersionOverlay initialized in 254 ms 
+2017-03-06 20:34:04,142 [   8559]   INFO - plication.impl.ApplicationImpl - 85 application components initialized in 5751ms 
+2017-03-06 20:34:04,764 [   9181]   INFO - pl$FileIndexDataInitialization - Initialization done:1497 
+2017-03-06 20:34:04,925 [   9342]   INFO - .intellij.idea.IdeaApplication - App initialization took 10660 ms 
+2017-03-06 20:34:05,495 [   9912]   INFO - exImpl$StubIndexInitialization - Initialization done:730 
+2017-03-06 20:34:06,816 [  11233]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@6ac9ad4c 
+2017-03-06 20:34:08,187 [  12604]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@22de9cd5 
+2017-03-06 20:34:09,845 [  14262]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@19096c80 
+2017-03-06 20:34:14,064 [  18481]   INFO - ij.components.ComponentManager - com.intellij.openapi.components.impl.ServiceManagerImpl initialized in 154 ms 
+2017-03-06 20:34:14,112 [  18529]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.impl.ProjectLevelVcsManagerImpl initialized in 33 ms 
+2017-03-06 20:34:14,155 [  18572]   INFO - ij.components.ComponentManager - com.intellij.codeInsight.daemon.impl.DaemonCodeAnalyzerImpl initialized in 24 ms 
+2017-03-06 20:34:14,214 [  18631]   INFO - ij.components.ComponentManager - com.intellij.execution.impl.RunManagerImpl initialized in 48 ms 
+2017-03-06 20:34:14,231 [  18648]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 364 ms 
+2017-03-06 20:34:17,865 [  22282]   WARN - til.ui.update.LazyUiDisposable - use application as a parent disposable 
+2017-03-06 20:35:04,549 [  68966]   INFO - ij.components.ComponentManager - com.intellij.openapi.fileEditor.impl.IdeDocumentHistoryImpl initialized in 11 ms 
+2017-03-06 20:35:04,572 [  68989]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.changes.ChangesViewManager initialized in 16 ms 
+2017-03-06 20:35:04,590 [  69007]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.changes.ChangeListManagerImpl initialized in 37 ms 
+2017-03-06 20:35:04,592 [  69009]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.impl.VcsFileStatusProvider initialized in 39 ms 
+2017-03-06 20:35:04,594 [  69011]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.impl.LineStatusTrackerManager initialized in 42 ms 
+2017-03-06 20:35:04,610 [  69027]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.changes.shelf.ShelvedChangesViewManager initialized in 13 ms 
+2017-03-06 20:35:04,636 [  69053]   INFO - ij.components.ComponentManager - com.intellij.codeInsight.daemon.impl.DaemonListeners initialized in 16 ms 
+2017-03-06 20:35:04,652 [  69069]   INFO - ij.components.ComponentManager - com.intellij.codeInsight.daemon.impl.GeneralHighlightingPassFactory initialized in 15 ms 
+2017-03-06 20:35:04,721 [  69138]   INFO - ij.components.ComponentManager - com.intellij.xdebugger.impl.XDebuggerManagerImpl initialized in 48 ms 
+2017-03-06 20:35:04,792 [  69209]   INFO - ij.components.ComponentManager - com.intellij.lang.javascript.linter.JSLinterEditorPanelCreator initialized in 33 ms 
+2017-03-06 20:35:04,805 [  69222]   INFO - ij.components.ComponentManager - org.angularjs.service.Angular2HighlightingPassFactory initialized in 12 ms 
+2017-03-06 20:35:04,810 [  69227]   INFO - ellij.project.impl.ProjectImpl - 122 project components initialized in 404 ms 
+2017-03-06 20:35:04,811 [  69228]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2017-03-06 20:35:04,891 [  69308]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy 
+2017-03-06 20:35:04,891 [  69308]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy in original object too 
+2017-03-06 20:35:05,598 [  70015]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2017-03-06 20:35:06,520 [  70937]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.grunt.GruntfileManager 
+2017-03-06 20:35:06,522 [  70939]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.gulp.GulpfileManager 
+2017-03-06 20:35:06,523 [  70940]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.npm.PackageJsonFileManager 
+2017-03-06 20:35:06,576 [  70993]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 61ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-03-06 20:35:06,974 [  71391]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 395ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-03-06 20:35:06,977 [  71394]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 2 files to update 
+2017-03-06 20:35:07,141 [  71558]   INFO - tartup.impl.StartupManagerImpl - /Users/mennoholtkamp/workspace/PHPStorm-import-issue/.idea case-sensitivity: expected=false actual=false 
+2017-03-06 20:35:07,366 [  71783]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /Users/mennoholtkamp/workspace/PHPStorm-import-issue/.idea/PHPStorm-import-issue.iml 
+2017-03-06 20:35:07,366 [  71783]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /Users/mennoholtkamp/workspace/PHPStorm-import-issue 
+2017-03-06 20:35:07,368 [  71785]   INFO - cript.buildTools.base.JsbtUtil - Detecting by children: [file:///Users/mennoholtkamp/workspace/PHPStorm-import-issue/src, file:///Users/mennoholtkamp/workspace/PHPStorm-import-issue/.git, file:///Users/mennoholtkamp/workspace/PHPStorm-import-issue/.idea] 
+2017-03-06 20:35:07,369 [  71786]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.grunt.GruntService 
+2017-03-06 20:35:07,369 [  71786]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /Users/mennoholtkamp/workspace/PHPStorm-import-issue/.idea/PHPStorm-import-issue.iml 
+2017-03-06 20:35:07,370 [  71787]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /Users/mennoholtkamp/workspace/PHPStorm-import-issue 
+2017-03-06 20:35:07,370 [  71787]   INFO - cript.buildTools.base.JsbtUtil - Detecting by children: [file:///Users/mennoholtkamp/workspace/PHPStorm-import-issue/src, file:///Users/mennoholtkamp/workspace/PHPStorm-import-issue/.git, file:///Users/mennoholtkamp/workspace/PHPStorm-import-issue/.idea] 
+2017-03-06 20:35:07,371 [  71788]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.gulp.GulpService 
+2017-03-06 20:35:07,372 [  71789]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /Users/mennoholtkamp/workspace/PHPStorm-import-issue/.idea/PHPStorm-import-issue.iml 
+2017-03-06 20:35:07,373 [  71790]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /Users/mennoholtkamp/workspace/PHPStorm-import-issue 
+2017-03-06 20:35:07,373 [  71790]   INFO - ols.npm.PackageJsonFileManager - Found package.json in /Users/mennoholtkamp/workspace/PHPStorm-import-issue: null 
+2017-03-06 20:35:07,373 [  71790]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.npm.NpmScriptsService 
+2017-03-06 20:35:07,744 [  72161]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 3411 ms 
+2017-03-06 20:35:08,579 [  72996]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 1603ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2017-03-06 20:35:14,647 [  79064]   INFO -   #git4idea.log.GitLogProvider - Fresh repository: file:///Users/mennoholtkamp/workspace/PHPStorm-import-issue 
+2017-03-06 20:35:14,677 [  79094]   INFO -   #git4idea.log.GitLogProvider - Fresh repository: file:///Users/mennoholtkamp/workspace/PHPStorm-import-issue 
+2017-03-06 20:35:27,143 [  91560]   INFO -  #git4idea.commands.GitHandler - [PHPStorm-import-issue] git -c core.quotepath=false add --ignore-errors -- src/Domain/Entity/Invoice.php src/Domain/Dao/Invoice.php 
+2017-03-06 20:36:00,926 [ 125343]   INFO -  #git4idea.commands.GitHandler - [PHPStorm-import-issue] git -c core.quotepath=false rm --ignore-unmatch --cached -- .idea/misc.xml 
+2017-03-06 20:37:02,154 [ 186571]   INFO - s.log.data.VcsLogRefresherImpl - Not enough first block 
+com.intellij.vcs.log.data.VcsLogRefreshNotEnoughDataException: Not enough first block
+	at com.intellij.vcs.log.data.VcsLogJoiner.a(VcsLogJoiner.java:104)
+	at com.intellij.vcs.log.data.VcsLogJoiner.b(VcsLogJoiner.java:89)
+	at com.intellij.vcs.log.data.VcsLogJoiner.addCommits(VcsLogJoiner.java:51)
+	at com.intellij.vcs.log.data.VcsLogRefresherImpl$MyRefreshTask.a(VcsLogRefresherImpl.java:321)
+	at com.intellij.vcs.log.data.VcsLogRefresherImpl$MyRefreshTask.a(VcsLogRefresherImpl.java:255)
+	at com.intellij.vcs.log.data.VcsLogRefresherImpl$MyRefreshTask.run(VcsLogRefresherImpl.java:226)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:726)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$1.run(ProgressManagerImpl.java:137)
+	at com.intellij.openapi.application.impl.ApplicationImpl$2.run(ApplicationImpl.java:334)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-03-06 20:37:02,188 [ 186605]   INFO - s.log.data.VcsLogRefresherImpl - Not enough first block 
+com.intellij.vcs.log.data.VcsLogRefreshNotEnoughDataException: Not enough first block
+	at com.intellij.vcs.log.data.VcsLogJoiner.a(VcsLogJoiner.java:104)
+	at com.intellij.vcs.log.data.VcsLogJoiner.b(VcsLogJoiner.java:89)
+	at com.intellij.vcs.log.data.VcsLogJoiner.addCommits(VcsLogJoiner.java:51)
+	at com.intellij.vcs.log.data.VcsLogRefresherImpl$MyRefreshTask.a(VcsLogRefresherImpl.java:321)
+	at com.intellij.vcs.log.data.VcsLogRefresherImpl$MyRefreshTask.a(VcsLogRefresherImpl.java:255)
+	at com.intellij.vcs.log.data.VcsLogRefresherImpl$MyRefreshTask.run(VcsLogRefresherImpl.java:226)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:726)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$1.run(ProgressManagerImpl.java:137)
+	at com.intellij.openapi.application.impl.ApplicationImpl$2.run(ApplicationImpl.java:334)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-03-06 20:37:02,188 [ 186605]   INFO - s.log.data.VcsLogRefresherImpl - Couldn't join 5000 recent commits to the log (0 commits) 
+2017-03-06 20:38:10,348 [ 254765]   INFO -  #git4idea.commands.GitHandler - [PHPStorm-import-issue] git -c core.quotepath=false add --ignore-errors -- src/Domain/Dao/Order.php 
